@@ -21,3 +21,9 @@ https://create-react-app.dev/docs/getting-started
 
 - Home
 - About
+- Estilos Globais
+
+# Criação da Navbar e das Rotas
+
+Instalar a ferramenta "react-router" de acordo com a documentação do projeto:
+https://reactrouter.com/docs/en/v6

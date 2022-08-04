@@ -1,8 +1,12 @@
 import * as S from "./styles";
+import Navbar from "../../components/Navbar/index"
+import Gradient from "../../components/Gradient/index"
 
 const Home = () => {
     return (
         <S.Container>
+            <Navbar/>
+            <Gradient/>
             <S.Section>
                 <S.Introduction>
                     <h1>Meet the CovidMeter</h1>
