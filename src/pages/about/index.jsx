@@ -1,14 +1,14 @@
 import * as S from "./styles";
 import HealthTeam from "../../assets/healthteam.png";
 import Support from "../../assets/support.png";
-import Navbar from "../../components/Navbar/index"
-import Gradient from "../../components/Gradient/index"
+import Navbar from "../../components/Navbar";
+import Gradient from "../../components/Gradient";
 
 const About = () => {
     return (
         <S.Container>
-            <Navbar/>
-            <Gradient/>
+            <Navbar />
+            <Gradient />
             <S.SectionLeft>
                 <S.IntroductionLeft>
                     <h1>Our Purpose</h1>

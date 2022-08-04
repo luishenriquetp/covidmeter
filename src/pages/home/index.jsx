@@ -1,12 +1,13 @@
 import * as S from "./styles";
-import Navbar from "../../components/Navbar/index"
-import Gradient from "../../components/Gradient/index"
+import Navbar from "../../components/Navbar";
+import Search from "../../components/Search";
+import Gradient from "../../components/Gradient";
 
 const Home = () => {
     return (
         <S.Container>
-            <Navbar/>
-            <Gradient/>
+            <Navbar />
+            <Gradient />
             <S.Section>
                 <S.Introduction>
                     <h1>Meet the CovidMeter</h1>
@@ -19,6 +20,7 @@ const Home = () => {
                         around the world.
                     </p>
                 </S.Introduction>
+                <Search />
             </S.Section>
         </S.Container>
     );
