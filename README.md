@@ -27,3 +27,18 @@ https://create-react-app.dev/docs/getting-started
 
 Instalar a ferramenta "react-router" de acordo com a documentação do projeto:
 https://reactrouter.com/docs/en/v6
+
+Componentes:
+
+- Navbar;
+- Gradient;
+
+# API "covid19api" e feature "Search"
+
+Segue documentação do projeto para referência:
+https://covid19api.com/
+
+Componentes:
+
+- Search;
+- Card.
