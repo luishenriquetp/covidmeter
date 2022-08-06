@@ -1,5 +1,5 @@
 {
-  "short_name": "CovidMeter",
+  "short_name": "CovidMeter - Covid-19 data around the world.",
   "name": "Simple app to help find information about COVID-19 around the world.",
   "icons": [
     {
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "152x40"
     }
