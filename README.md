@@ -55,3 +55,7 @@ Componentes:
 # Release 1.0
 
 Primeiro release em 06/08/2022 a ser comitado na branch "release".
+
+# Release 1.0 - Produção
+
+Primeiro release em 06/08/2022 aprovado para produção (branch "master").
