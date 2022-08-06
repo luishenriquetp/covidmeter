@@ -12,6 +12,15 @@ https://nodejs.org/en/docs/
 Instalar a ferramenta "yarn" de acordo com a documentação do projeto:
 https://yarnpkg.com/getting-started
 
+# Run the project
+
+Depois da instalação das duas ferramentas citadas acima, é possível baixar o projeto neste repositório (branch "release" ou "master") e iniciá-lo com os seguintes comandos:
+
+```js
+npm i
+yarn start
+```
+
 # Create-react-app
 
 Segue documentação do projeto para referência:
@@ -42,3 +51,7 @@ Componentes:
 
 - Search;
 - Card.
+
+# Release 1.0
+
+Primeiro release em 06/08/2022 a ser comitado na branch "release".
